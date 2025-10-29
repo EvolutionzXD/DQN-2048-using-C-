@@ -1,5 +1,5 @@
 # DQN-2048-using-C-
-<br>C++ để cài đặt mạng neuron và traning mạng<br>
+<br>C++ để cài đặt mạng neuron và traning mạng sử dụng DQN<br>
 <br>File Range.py, SCORE.py, TBC.py em dùng để thống kê điểm của mạng neuron<br>
 <br>Game.cpp gồm các hàm cho game 2048<br>
 <br>Network.cpp là code mạng neuron<br>
