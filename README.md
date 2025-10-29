@@ -7,4 +7,4 @@
 <br>Learning.cpp và Learning.exe dùng để train mạng neuron (khi chạy Learning gõ phím K để thoát chương trình, do có khả năng bị ghi đè mạng cũ thành file txt trống)<br>
 <br>Model2048.txt dùng để lưu trọng số cạnh của mạng<br>
 <br>2048.exe để chơi game 2048 với trợ giúp của mạng neuron<br>
-<br>(Em chưa biết viết báo cáo)<br>
+<br>(Dạ em chưa biết viết báo cáo)<br>
