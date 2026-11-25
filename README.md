@@ -1,4 +1,4 @@
-# DQN-2048-using-C-
+# DQN-2048-using-CPP
 <br>C++ để cài đặt mạng neuron và traning mạng sử dụng DQN<br>
 <br> Trong code c++ có sử dụng thư viện raylib để làm giao diện cho game <br>
 <br>File Range.py, SCORE.py, TBC.py em dùng để thống kê điểm của mạng neuron<br>
